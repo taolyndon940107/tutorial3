@@ -2,3 +2,4 @@ sample6.txt
 sample6.txt
 sample7.txt
 sample8.txt sample8.txt
+commit ¼ÇÂ¼Ë÷ÒýµÄ×´Ì¬
