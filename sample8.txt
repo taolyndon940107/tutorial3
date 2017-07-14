@@ -3,3 +3,5 @@ sample6.txt
 sample7.txt
 sample8.txt sample8.txt
 DT pull get remote database contents
+commit ¼ÇÂ¼Ë÷ÒýµÄ×´Ì¬
+
